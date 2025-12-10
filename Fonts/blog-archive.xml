@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fonts</title>
+    <link>https://polyhedra.au/Polyhedra/Fonts</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto.</description>
+    <item>
+      <title>PTV Network Family</title>
+      <link>https://polyhedra.au/Polyhedra/Fonts/Entries/2025/12/10_Blue_bird_day.html</link>
+      <guid isPermaLink="false">35c2a755-aa54-4435-8312-45539b4f05e5</guid>
+      <pubDate>Wed, 10 Dec 2025 13:45:21 +1100</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://polyhedra.au/Polyhedra/Fonts/Entries/2025/12/10_Blue_bird_day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>https://polyhedra.au/Polyhedra/Fonts</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:142913F5-A40E-4722-B9B2-F40728EF9E8C</id>
+ <title>Page list Atom feed</title>
+ <updated>2025-12-10T14:08:27+11:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:66479C69-863D-480C-9B57-7E70F2DAF8BE</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">66479C69-863D-480C-9B57-7E70F2DAF8BE</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2025-12-10T14:08:27.001+11:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B7D9E0D3-504E-4F98-AC9D-5AF84674B2C3</id>
+  <title>Fonts</title>
+  <title xmlns="urn:iweb:">Fonts</title>
+  <in-navbar xmlns="urn:iweb:">B7D9E0D3-504E-4F98-AC9D-5AF84674B2C3</in-navbar>
+  <link rel="alternate" href="Fonts/Fonts.html"/>
+  <updated>2005-09-21T11:08:38+10:00</updated>
+  <content>Fonts</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F452371B-C4B4-464E-BDCA-56805BD80FC9</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">F452371B-C4B4-464E-BDCA-56805BD80FC9</in-navbar>
+  <link rel="alternate" href="Photos/Photos.html"/>
+  <updated>2025-12-10T14:08:27.002+11:00</updated>
+  <content>Photos</content>
+ </entry>
+</feed>

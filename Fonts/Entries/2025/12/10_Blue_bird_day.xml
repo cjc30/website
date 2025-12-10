@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="3AC4006B-BAFC-4580-9BDC-DD02A8E41512">
+  <lastEdited clientType="local-build-20251210" date="2025-12-10 03:08:27 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;PTV Network Family&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, 10 December 2025&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Network family of fonts is used by Public Transport Victoria/Transport Victoria for all signage and official communications. Currently, the family consists of Network Sans, Geo, Dings, Picts and recently Network Neo, which I unfortunately don&#x2019;t have yet.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Blue_bird_day_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>
